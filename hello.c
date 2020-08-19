@@ -12,7 +12,6 @@
 int main(int argc, char **argv) {
 
   printf("Khoa Tran\n");
-  printf("Computer Science and Mathematics\n");
-
+ 
   return 0;
 }
